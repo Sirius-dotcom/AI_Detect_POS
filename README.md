@@ -8,6 +8,7 @@
 ---
 
 **POSSTARS AI Intelligent Recognition System**
+
 With the recovery of the global retail industry and changes in consumer behavior, from small convenience stores to large supermarkets, new developments are being explored in order to achieve business growth. Intelligent digital management upgrades and secure payments are unavoidable for all retailers. Based on these common needs, POSSTARS will provide online and offline integrated retail solutions, integrate various functions such as cashier, mobile payment, ordering, takeaway, marketing activities, VIP membership management, and provide multiple terminals.
 
 **Project Introduction**
@@ -24,6 +25,7 @@ It supports multiple platforms: including Android, iOS, embedded Linux devices, 
 Multiple scenarios: recognition of fresh fruits and vegetables, identification of non-standard products like grains and cereals, recognition of snack foods, vehicle recognition, recognition of animals and plants, etc.
 
 **Visual Settlement Process**
+
 The system automatically recognizes the goods placed by consumers in the settlement area through cameras, replacing the traditional way of manual scanning and enabling quick settlement, thus improving the shopping experience.
 
 
